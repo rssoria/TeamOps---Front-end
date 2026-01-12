@@ -86,5 +86,5 @@ The frontend acts as a **thin client**, keeping all business rules in the backen
 Create a `.env.local` file:
 
 ```bash
-NEXT_PUBLIC_API_URL=http://localhost:5000
+NEXT_PUBLIC_API_URL=http://localhost:5001
 ```
